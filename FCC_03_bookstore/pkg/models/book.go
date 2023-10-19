@@ -2,7 +2,9 @@ package models
 
 import (
 	"github.com/AncientGoo/FCC_course/tree/main/FCC_03_bookstore/pkg/config"
-	"github.com/jinzhu/gorm"
+	//"github.com/jinzhu/gorm"
+	//"gorm.io/driver/mysql"
+	"gorm.io/gorm"
 )
 
 var db *gorm.DB

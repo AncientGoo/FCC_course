@@ -6,7 +6,7 @@ import (
 
 	"github.com/AncientGoo/FCC_course/tree/main/FCC_03_bookstore/pkg/routes"
 	"github.com/gorilla/mux"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
+	//_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
 func main() {
